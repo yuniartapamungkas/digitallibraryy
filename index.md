@@ -12,7 +12,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Milea](Milea.pdf) -Pidi Baiq (2016)
 6. [Tentang Kamu](Tere liye - tentang kamu.pdf) -Tere Liye (2016)
 7. [Laskar Pelangi](Laskar Pelangi.pdf) -Andrea Hirata (2005)
-8. Contoh buku lain
+8. [Ada Cinta di SMA CJR](Ada Cinta di SMA CJR.pdf) -Haqi Achmad	(2016)
+9. Contoh buku lain
 ---
 
 *Powered by Github Pages*
