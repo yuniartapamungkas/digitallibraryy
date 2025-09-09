@@ -10,8 +10,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Pengantar Filsafat Umum](Pengantar-Filsafat-Umum.pdf) -Nurani Soyomukti (2011)
 4. [Dilan](Dilan.pdf) -Pidi Baiq (2014)
 5. [Milea](Milea.pdf) -Pidi Baiq (2016)
-6. [Tentang Kamu](Tere liye - tentang kamu) -Tere Liye (2016)
-7. Contoh buku lain
+6. [Tentang Kamu](Tere liye - tentang kamu.pdf) -Tere Liye (2016)
+7. [Laskar Pelangi](Laskar Pelangi.pdf) -Andrea Hirata (2005)
+8. Contoh buku lain
 ---
 
 *Powered by Github Pages*
