@@ -9,7 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Islam Agamaku Buku Teks Pendidikan Agama Islam](Buku islam agamaku.pdf) -Burhanuddin TR (2016)
 3. [Pengantar Filsafat Umum](Pengantar-Filsafat-Umum.pdf) -Nurani Soyomukti (2011)
 4. [Dilan](Dilan.pdf) -Pidi Baiq (2014)
-5. Contoh buku lain
+5. [Milea](Milea.pdf) -Pidi Baiq (2016)
+6. Contoh buku lain
 ---
 
 *Powered by Github Pages*
