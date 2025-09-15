@@ -15,8 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Ada Cinta di SMA CJR](Ada Cinta di SMA CJR.pdf) -Haqi Achmad	(2016)
 9. [Ngenest](Ngenest.pdf) -Ernest Prakasa	(2013)
 10. [EnglishGrammar](EnglishGrammar_.pdf) -Raymond Murphy (2004)
-11. [Tugas Resume Kuliah Umum](Tugas_Resume_Kuliah Umum_Yuniarta P.P_143.pdf) -Yuniarta P.P (2025)
-12. 
+11. [Tugas Resume Kuliah Umum](Tugas_Resume_Kuliah Umum_Yuniarta P.P_143.pdf) -Yuniarta P.P (2025) 
 ---
 
 *Powered by Github Pages*
