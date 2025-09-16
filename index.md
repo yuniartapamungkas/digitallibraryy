@@ -18,6 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Tugas Resume Kuliah Umum](ebook/Tugas_Resume_Kuliah_Umum_YuniartaP.P_143.pdf) -Yuniarta P.P (2025)
     
 ---
-<a href="webti/halaman1.html"> Halaman 1</a>
-
+[Halaman 1](https://yuniartapamungkas.github.io/digitallibraryy/webti/halaman1.html)
 *Powered by Github Pages*
