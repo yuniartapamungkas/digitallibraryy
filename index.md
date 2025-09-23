@@ -18,13 +18,13 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Tugas Resume Kuliah Umum](ebook/Tugas_Resume_Kuliah_Umum_YuniartaP.P_143.pdf) -Yuniarta P.P (2025)
     
 ---
-<a href="../">Index</a>
-<a href="halaman1.html">Halaman 1</a>|
-<a href="halaman2.html">Halaman 2</a>|
-<a href="halaman3.html">Halaman 3</a>|
-<a href="halaman4.html">Halaman 4</a>|
-<a href="halaman5.html">Halaman 5</a>|
-<a href="halaman6.html">Halaman 6</a>|
-<a href="halaman7.html">Halaman 7</a>|
+<a href="../">Index</a>|
+<a href="webti/halaman1.html">Halaman 1</a>|
+<a href="webti/halaman2.html">Halaman 2</a>|
+<a href="webti/halaman3.html">Halaman 3</a>|
+<a href="webti/halaman4.html">Halaman 4</a>|
+<a href="webti/halaman5.html">Halaman 5</a>|
+<a href="webti/halaman6.html">Halaman 6</a>|
+<a href="webti/halaman7.html">Halaman 7</a>|
 
 *Powered by Github Pages*
